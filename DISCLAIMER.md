@@ -14,4 +14,5 @@ or support by AWS. AWS cannot guarantee their accuracy, and the products may
 change over time. Also, the descriptions are intended as brief highlights to aid
 understanding, rather than as thorough coverage. For authoritative descriptions
 of these products, please consult their respective manufacturers.
+
 Copyright © 2024 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.
